@@ -103,6 +103,9 @@ create table cupom(
 
 alter table pedido 
   add column id_cupom int unique;
+
+alter table pedido
+  drop constraint pedido_id_cliente_key;
     
 alter table pedido
     add unique(id_cliente, id_cupom);

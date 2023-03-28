@@ -190,13 +190,13 @@ insert into produto(codigo_barras, descricao, valor)
  /* CUPOM */
  
  insert into cupom
- 	values(default, CURRENT_TIMESTAMP , '2023-07-20 23:59:59', 2.00, 'GANHA2');
+ 	values(2, CURRENT_TIMESTAMP , '2023-07-20 23:59:59', 2.00, 'GANHA2');
  
  insert into cupom
- 	values(default, CURRENT_TIMESTAMP , '2023-07-20 23:59:59', 5.00, 'GANHA5');
+ 	values(1, CURRENT_TIMESTAMP , '2023-07-20 23:59:59', 5.00, 'GANHA5');
  
  insert into cupom
- 	values(default, CURRENT_TIMESTAMP , '2023-07-20 23:59:59', 10.00, 'GANHA10');
+ 	values(4, CURRENT_TIMESTAMP , '2023-07-20 23:59:59', 10.00, 'GANHA10');
  
  /* UPDATES */
 
