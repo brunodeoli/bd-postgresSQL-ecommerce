@@ -66,4 +66,5 @@ Utilizando o banco de dados da primeira parte do projeto, ou o disponibilizado e
 ## Aprendizados
 
 - PostgresSQL
+- Definição, manipulação e consulta de dados
 
