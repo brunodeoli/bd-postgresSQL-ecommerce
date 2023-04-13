@@ -4,8 +4,8 @@ Este é uma das atividades de avaliação feita no curso de Back-End oferecido p
 
 Grupo: 
 * Bruno de Oliveira 
-* Ivana Maria Feitosa Silva
-* Rachel Lizandra Borborema
+* [Ivana Maria Feitosa Silva](https://github.com/ivanafeitosa)
+* [Rachel Lizandra Borborema](https://github.com/rachellizandra)
 
 ## Enunciado parte 1
 #### 1 - Modelagem do e-commerce
